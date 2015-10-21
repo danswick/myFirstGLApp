@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/okio-1.4.0-89ff0fcc7c12d72e1f4eec3bc54a2f620798c02f.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-c3dc0033fdae3b84ccecabad5bb5626a8c786e49.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-399bb30826e21ea07ee706871e814926a664194a.jar" />
+    </item>
+    <item
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/1.0.1/5f807d0be6ca894f6ae0007e884099793b2c8633/lost-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/lost-1.0.1-b1158d6c7bebb64118796809e23d02c42611acd3.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a1e5b7bd46ac973e27064eee58ad9c873e954fae.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/2.1.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a0e285a01fe11337460074d4d420c1e5e1bf56e">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-61632a2370dd4a451cdf5ec2f72af29d5e93f4d1.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-28d2f258871d210abade7cee4737caba0dc53198.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-29c9f2af2ed11cd89b92e33f4a86464f239814df.jar" />
+    </item>
+    <item
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-8e6dc41a13463d94947cb604e0abadc8ef84da84.jar" />
+    </item>
+
+</items>
