@@ -2,67 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/okio-1.4.0-89ff0fcc7c12d72e1f4eec3bc54a2f620798c02f.jar" />
-    </item>
-    <item
-        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-c3dc0033fdae3b84ccecabad5bb5626a8c786e49.jar" />
-    </item>
-    <item
-        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-399bb30826e21ea07ee706871e814926a664194a.jar" />
-    </item>
-    <item
         jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/1.0.1/5f807d0be6ca894f6ae0007e884099793b2c8633/lost-1.0.1.jar"
         jumboMode="false"
-        revision="23.0.1"
+        revision="23.0.2"
         sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/lost-1.0.1-b1158d6c7bebb64118796809e23d02c42611acd3.jar" />
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/lost-1.0.1-b1158d6c7bebb64118796809e23d02c42611acd3.jar" />
     </item>
     <item
-        jar="/Users/dan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a1e5b7bd46ac973e27064eee58ad9c873e954fae.jar" />
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-84bbdc70314dd83fe64001e38d8c20e64d61ece7.jar" />
     </item>
     <item
-        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/2.1.0-SNAPSHOT/jars/classes.jar"
+        jar="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="2a0e285a01fe11337460074d4d420c1e5e1bf56e">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-61632a2370dd4a451cdf5ec2f72af29d5e93f4d1.jar" />
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-2f44c050e319f9508fa39a55fe6f62a1a7313715.jar" />
     </item>
     <item
-        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-28d2f258871d210abade7cee4737caba0dc53198.jar" />
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/okio-1.6.0-b03298826a7f2d93a7bc74c3cdafe3a09b654d99.jar" />
     </item>
     <item
-        jar="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-29c9f2af2ed11cd89b92e33f4a86464f239814df.jar" />
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-15e8bee8992e0a90e8467bc9a60a3baab49300f0.jar" />
     </item>
     <item
-        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jar="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
-        <dex dex="/Users/dan/Documents/github/MyFirstGLApp/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-8e6dc41a13463d94947cb604e0abadc8ef84da84.jar" />
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-3bbc1a15856d9b394d99caf7d9533025a4a2aa51.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-b623672a04c981f35ede607928b84462bd5a2b11.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-55b63932c848f95efb586a2b4f5d2919c378d0d7.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-1c93251461a03b43fd6d5d2c3c2827129c85c2f7.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06d629f89d1e0de27c659f94daf6f5e1512348f1">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp/app/build/intermediates/pre-dexed/debug/classes-bdc031fc810f24c673735d9329f9004e1900c7ff.jar" />
     </item>
 
 </items>
